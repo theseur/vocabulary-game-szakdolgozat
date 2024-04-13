@@ -1,0 +1,8 @@
+Duplicate entry 'cc-9e15fd434ba86525cf53341c27cf1000b2a54653' for key 'unique_index'Duplicate entry 'cc-9e15fd434ba86525cf53341c27cf1000b2a54653' for key 'unique_index'Duplicate entry 'cc-9e15fd434ba86525cf53341c27cf1000b2a54653' for key 'unique_index'\n2023-09-20Duplicate entry 'cc-9e15fd434ba86525cf53341c27cf1000b2a54653' for key 'unique_index'
+2023-09-20
+Duplicate entry 'cc-9e15fd434ba86525cf53341c27cf1000b2a54653' for key 'unique_index'2023-09-20
+Duplicate entry 'cc-9e15fd434ba86525cf53341c27cf1000b2a54653' for key 'unique_index'2023-09-20
+Duplicate entry 'angol' for key 'unique_targynev'2023-09-30
+Duplicate entry 'Átlag Béla-cdfac85df641c02fd0e491df0a97ea456fe4e945' for key 'unique_index'2024-03-23
+Duplicate entry 'Átlag Béla-cdfac85df641c02fd0e491df0a97ea456fe4e945' for key 'unique_index'2024-03-23
+Duplicate entry 'Átlag Béla-cdfac85df641c02fd0e491df0a97ea456fe4e945-7.a ang...' for key 'unique_index'2024-03-23
